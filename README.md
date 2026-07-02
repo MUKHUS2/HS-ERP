@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -56,3 +57,16 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# HS ERP
+
+Cloud ERP for Hassan Saeed Contracting Company.
+
+## Vision
+A modern ERP built from scratch for construction companies.
+
+## Tech Stack
+- Frontend: Next.js
+- Backend: Laravel
+- Database: PostgreSQL
+>>>>>>> 45ee0b2983e9cee9f2770c392f54c558336f2d1d
